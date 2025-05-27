@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+venv/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# Virtual environments
+.env/
+
+# Android SDK
+AppData/Local/Android/
